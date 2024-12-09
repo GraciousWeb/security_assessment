@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.grace</groupId>
-    <artifactId>security_assessment</artifactId>
+    <artifactId>security_assessment_with_hibernate</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>security_assessment</name>
     <description>security_assessment</description>
